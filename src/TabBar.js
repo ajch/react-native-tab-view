@@ -570,7 +570,7 @@ const styles = StyleSheet.create({
     bottom: 0,
   },
   indicator: {
-    backgroundColor: '#ffeb3b',
+    backgroundColor: 'white',
     position: 'absolute',
     left: 0,
     bottom: 0,
